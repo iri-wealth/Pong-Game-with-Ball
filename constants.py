@@ -1,0 +1,10 @@
+""" The main global variables for the game """
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+PADDLE_WIDTH = 20
+PADDLE_HEIGHT = 100
+BALL_SIZE = 20
+MOVE_SPEED = 20
+BALL_SPEED = 3
+AI_SPEED = 2
+MAX_SCORE = 10
